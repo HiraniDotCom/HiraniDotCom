@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Software Engineer
 --------------------------
 
-I have been coding for 2 years and have become very familiar with HTML, CSS, Javascript, Next.js, React, Typescript and TailwindCSS. I am so addicted to these skills, I lose track of time.
+I have been coding for 2 years and have become very familiar with HTML, CSS, Javascript, Next.js, React, Typescript, TailwindCSS and Vercel for deployment. I am so addicted to these skills, I lose track of time.
 
 * 🌍  I'm based in Richmond, TX USA
 * 🖥️  See my portfolio at [My Portfolio](http://msh-projects-gamma.vercel.app)
