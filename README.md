@@ -11,7 +11,7 @@ I have been coding for 2 years and have become very familiar with HTML, CSS, Jav
 * ✉️  You can contact me at [hiranidotcom@gmail.com](mailto:hiranidotcom@gmail.com)
 * 🚀  I'm currently working on [Vedic Tithi & Choghadiya Calendars](http://msh-choghadiya.vercel.app/)
 * 🧠  I'm currently learning nodemon & express
-* 👥  I'm looking to collaborate on any project to ehance my foundational skills
+* 👥  I'm looking to collaborate on any project to enhance my foundational skills
 * 💬  Ask me about I love to share the knowledge & experiences that I have gained, but not as a professional teacher
 
 <p align="left">
